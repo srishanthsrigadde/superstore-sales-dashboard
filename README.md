@@ -16,5 +16,4 @@ This project is an interactive sales dashboard built using Power BI and the Supe
 - Power BI Desktop
 - Microsoft Excel
 
-## 👨‍💼 Created by:
-**Aishwraya** – Data Analyst Intern
+
